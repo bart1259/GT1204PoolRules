@@ -34,29 +34,30 @@ Rules
     4.7.	If a player pockets the 8-ball on the break, the break shall be re-racked and redone by the same player, regardless of whether the cue ball is also pocketed.
 5.	Fouls
     5.1.	A player commits a standard foul if, on their shot:
-        5.1.1.	 The player pockets the ball on slop (see Rule 6: Slop)
-        5.1.2.	 The player scratches, by either pocketing the cue ball or causing it to jump over the rails and leave the table’s play area.
-        5.1.3.	The player causes any object ball to jump over the rails and leave the table’s play area.
-        5.1.4.	The cue ball hits an opponent’s object ball before any of theirs, unless:
-            5.1.4.1.	Rule 5.1.4 has been suspended due to another rule
-        5.1.5.	The cue ball does not contact at least one of the player’s own object balls
-        5.1.6.	None of the player’s object balls are either pocketed or contact a rail
-        5.1.7.	The player does not have at least one foot on the floor when their cue stick contacts the cue ball. 
-        5.1.8.	The player touches any ball other than the cue ball with their cue stick, or any ball with anything other than the cue stick, unless the player has ball in hand.
-            5.1.8.1.	If a player accidentally touches any ball illegally, it will not be considered a foul if they replace the ball to its previous location prior to taking a shot.
-        5.1.9.	The player contacts the cue ball more than once on any given shot.
-        5.1.10.	The player contacts the cue ball at the same time the cue ball contacts another ball, in the direction the cue ball is being driven.
-            5.1.10.1.	If the cue ball is in contact with another ball before a shot is made, the player must shoot in a different direction than that of the contact. 
-                5.1.10.1.1.	In the unlikely event that this cannot be done, due to 3 or more object balls being in contact with the cue ball, Rule 5.1.9 will be suspended, and there will be no foul.
-        5.1.11.	The player commits a “push shot” where the contact to the cue ball is unnecessarily prolonged.
-        5.1.12.	The player contacts any ball while balls on the table are still moving.
-        5.1.13.	The player, having the opportunity to place the cue ball anywhere in the kitchen, shoots with the cue ball having any part extending beyond the kitchen.
-        5.1.14.	The player, having the opportunity to place the cue ball anywhere in the kitchen, causes the cue ball to contact another ball, a rail, or a pocket that is located fully within that kitchen.
+        5.1.1.	 The player scratches, by either pocketing the cue ball or causing it to jump over the rails and leave the table’s play area.
+        5.1.2.	The player causes any object ball to jump over the rails and leave the table’s play area.
+            5.1.2.1 If this event occurs, and the ball is of the player's type, the ball shall be returned to the table so that it touches the back rail opposite the kitchen as close as possible to the center dot.
+            5.1.2.2 If this event occurs, and the ball is of the opposing side's type, the ball shall be considered to have been pocketed.
+        5.1.3.	The cue ball hits an opponent’s object ball before any of theirs, unless:
+            5.1.3.1.	Rule 5.1.4 has been suspended due to another rule
+        5.1.4.	The cue ball does not contact at least one of the player’s own object balls
+        5.1.5.	None of the player’s object balls are either pocketed or contact a rail
+        5.1.6.	The player does not have at least one foot on the floor when their cue stick contacts the cue ball. 
+        5.1.7.	The player touches any ball other than the cue ball with their cue stick, or any ball with anything other than the cue stick, unless the player has ball in hand.
+            5.1.7.1.	If a player accidentally touches any ball illegally, it will not be considered a foul if they replace the ball to its previous location prior to taking a shot.
+        5.1.8.	The player contacts the cue ball more than once on any given shot.
+        5.1.9.	The player contacts the cue ball at the same time the cue ball contacts another ball, in the direction the cue ball is being driven.
+            5.1.9.1.	If the cue ball is in contact with another ball before a shot is made, the player must shoot in a different direction than that of the contact. 
+                5.1.9.1.1.	In the unlikely event that this cannot be done, due to 3 or more object balls being in contact with the cue ball, Rule 5.1.9 will be suspended, and there will be no foul.
+        5.1.10.	The player commits a “push shot” where the contact to the cue ball is unnecessarily prolonged.
+        5.1.11.	The player contacts any ball while balls on the table are still moving.
+        5.1.12.	The player, having the opportunity to place the cue ball anywhere in the kitchen, shoots with the cue ball having any part extending beyond the kitchen.
+        5.1.13.	The player, having the opportunity to place the cue ball anywhere in the kitchen, causes the cue ball to contact another ball, a rail, or a pocket that is located fully within that kitchen.
     5.2.	A player commits a serious foul if, on their shot:
         5.2.1.	The 8-ball is pocketed while their side still has object balls remaining on the table.
         5.2.2.	The player causes the 8-ball to jump over the rails and leave the table’s play area.
     5.3.	A player also commits a serious foul if they intentionally undertake any action that irreparably damages the status of the game, such as moving balls on the table with their hands.
-    5.3.1.	If a player irreparably damages the status of the game intentionally, the opponent has the option of continuing the game as-is or declaring a draw.
+        5.3.1.	If a player irreparably damages the status of the game intentionally, the opponent has the option of continuing the game as-is or declaring a draw.
 6.	Slop
     6.1.	A player who shoots a ball of his own color commits slop unless they:
         6.1.1.	Call the ball and pocket the ball will land in
@@ -65,7 +66,7 @@ Rules
 
 Definitions
  Breaker: The player who is performing the break.
- Kitchen: The area behind the second dot on end of the pool table where the cue ball is placed on the break. In some versions of pool this could be on either end, but in 8-ball pool this will be only on one end.
+ Kitchen: The area behind the second dot on the end of the pool table where the cue ball is placed on the break. In some versions of pool this could be on either end, but in 8-ball pool this will be only on one end.
  Object ball: Any ball which is not the cue ball or the 8 ball. Object balls may belong to either your side or the opponent’s side. Object balls have one and only one type.
  Obvious Shot: A shot which hits a ball into a pocket where the cue ball hits the first ball that it strikes into a pocket and where the combination of the first ball hit and the cue ball prior to hitting the first ball contact at most one rail. Any actions the cue ball takes after striking the first ball or other balls which are pocketed are incidental, and would not be considered slop. 
  Open: If the table is “open” it means that neither side possesses a type.
@@ -78,4 +79,4 @@ Contribution
  To contribute to the rules, please create a pull request and await approval from the committee.
 
 Credits
- Much of these rules have been adapted from Cornerman Billiards Bar Rules 9-Ball and the World Pool Association's official rulebook.
+ Much of these rules have been adapted from World Pool Association's official rulebook.
